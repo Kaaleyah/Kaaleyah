@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaaleyah
-- 👀 I’m interested in mobile and embedded systems
-- 🌱 I’m currently learning Swift for iOS and macOS
+- 👀 I’m interested in front-end and embedded systems
+- 🌱 I’m currently learning React.js and Swift
 - 📫 How to reach me furkancanbaytemur@gmail.com
 
 <!---
